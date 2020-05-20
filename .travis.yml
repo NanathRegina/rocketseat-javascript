@@ -1,6 +1,0 @@
-# Linguagem Utilizada para Desenvolver a Aplicação 
-language: node_js
-
-# Versão que a aplicação suporta.
-node_js:
-  - 7
